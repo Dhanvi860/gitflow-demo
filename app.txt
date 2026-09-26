@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Profile feature from develop branch
+=======
+Profile feature from feature branch
+>>>>>>> feature/profile
 Login feature added
